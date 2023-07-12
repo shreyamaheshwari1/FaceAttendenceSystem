@@ -8,7 +8,7 @@ The Face Detection Attendance System application utilizes a webcam or scanner to
 
 2.Face Detection: The system continuously captures the live video feed from the webcam or scanner. The face detection algorithm, integrated with the face recognition library, scans each video frame in real-time to detect the presence of faces.
 
-3.Face Recognition: Once a face is detected, the face recognition library compares it with the enrolled faces stored in the Firefall database.
+3.Face Recognition: Once a face is detected, the face recognition library compares it with the enrolled faces stored in the Firebase database.
 
 4.Attendance Marking: Upon successful recognition, the system marks the student as present and logs the attendance data in a secure database. The system can also capture the timestamp to record the exact time when the attendance was marked.
 
