@@ -4,7 +4,7 @@ A project based on face recognition based attendance system that provides real t
  # Key features
 The Face Detection Attendance System application utilizes a webcam or scanner to capture and record the faces of students in a database. The system relies on the Firebase database and a face recognition library for its functioning. Here's an overview of the system:
 
-1. Enrollment: Students are required to enroll by providing their details and allowing the system to capture their face using a webcam or scanner. The captured face images are processed and stored in the Firefall database along with the associated student information.
+1. Enrollment: Students are required to enroll by providing their details and allowing the system to capture their face using a webcam or scanner. The captured face images are processed and stored in the Firebase database along with the associated student information.
 
 2.Face Detection: The system continuously captures the live video feed from the webcam or scanner. The face detection algorithm, integrated with the face recognition library, scans each video frame in real-time to detect the presence of faces.
 
