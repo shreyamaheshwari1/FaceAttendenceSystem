@@ -17,5 +17,6 @@ The Face Detection Attendance System application utilizes a webcam or scanner to
 6.Real-Time Monitoring: The system can provide real-time monitoring of the attendance process, displaying the recognized faces on the screen as students enter or leave the designated area covered by the webcam or scanner. This feature allows for immediate verification and helps in ensuring the accuracy of attendance records.
 
 # images
+![image](https://github.com/shreyamaheshwari1/FaceAttendenceSystem/assets/114720478/783a8ac7-8792-4658-9e64-3b7c5993fd4f)
 
 
